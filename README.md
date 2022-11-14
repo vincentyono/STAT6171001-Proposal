@@ -1,6 +1,6 @@
 # Basic Statistics Final Project Proposal
 
-Live link:
+Live link: https://vincentyono.github.io/STAT6171001-Proposal/
 
 ## Group members:
 
